@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dados (evitar arquivos grandes ou sensíveis)
+data/
+datasets/
+*.csv
+*.xlsx
+*.parquet
+
+# Power BI
+*.pbix
+
+# Relatórios gerados
+reports/*.pdf
+reports/*.html
+reports/*.xlsx
